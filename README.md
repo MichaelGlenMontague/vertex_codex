@@ -1,6 +1,8 @@
 # Vertex Codex
-###### Vertex Codex v1.0
-###### Michael Glen Montague
+
+Vertex Codex v1.0
+
+Michael Glen Montague
 
 A [Blender](https://www.blender.org/) add-on that provides copious amounts of compartmentalization for ***Vertex Groups*** in a special panel called the ***Vertex Codex***, which is accessed in the 3D View's sidebar and available to all Mesh-based Objects. Each *Page* of the codex can be thought of as a *Vertex Group Collection*, with its own context for *Folders*, *Selections*, *Selection Groups*, and visible Vertex Groups.
 
