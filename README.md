@@ -1,6 +1,6 @@
 # Vertex Codex
 
-Vertex Codex v1.0
+Vertex Codex v1.0 | [Buy on Gumroad](https://michaelglenmontague.gumroad.com/l/vertex_codex)
 
 Michael Glen Montague
 
